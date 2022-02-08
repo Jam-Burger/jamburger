@@ -1,0 +1,7 @@
+README.md
+setup.py
+jamburger.egg-info/PKG-INFO
+jamburger.egg-info/SOURCES.txt
+jamburger.egg-info/dependency_links.txt
+jamburger.egg-info/requires.txt
+jamburger.egg-info/top_level.txt
